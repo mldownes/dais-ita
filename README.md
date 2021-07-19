@@ -3,7 +3,7 @@ The legacy information for the DAIS ITA research program.  US/UK collaboration a
 and industry from 2016 to 2021.
 
 # clusters
-The legacy of the DAIS ITA comes in two main forms: [A list of publications](science-library.html) that have arisen from the
+The legacy of the DAIS ITA comes in two main forms: [A list of publications](science-library.md) that have arisen from the
 program, and a set of final showcase demonstrations and presentations that have been designed around a
 closely linked set of three clusters:
 
